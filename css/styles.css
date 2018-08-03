@@ -34,7 +34,7 @@
   font-family: fantasy;
   font-weight: bolder;
   margin: 10px;
-  padding 3px;
+  padding: 3px;
 }
 
 #projects-body h1 {
@@ -86,6 +86,8 @@
   margin-right: auto;
   border: 2px solid #6d6d6d;
   padding: 5px;
+  max-width: 400px;
+  max-height: 150px;
 }
 
 #about-me-body p {
@@ -101,4 +103,9 @@
 
 #about-me-body li {
   font-style: italic;
+}
+
+.thesis {
+  font-style: bold;
+  font-weight: bolder;
 }
