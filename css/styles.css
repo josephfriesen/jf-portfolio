@@ -109,3 +109,9 @@
   font-style: bold;
   font-weight: bolder;
 }
+
+.subsection-heading {
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+}
