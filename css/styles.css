@@ -1,5 +1,17 @@
-#matlockpic {
-  width: 355px;
-  height: 200px;
+#header {
+  background-color: lightcyan;
+  border: 4px solid green;
+}
+
+#headercol1 {
+  color: green;
+  vertical-align: middle;
+  font-family: fantasy;
+  text-align: center;
+}
+
+#headercol2 img {
+  width: 100%;
   float: right;
+  border: 4px solid green;
 }
