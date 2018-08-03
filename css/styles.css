@@ -115,3 +115,9 @@
   font-style: italic;
   font-size: 25px;
 }
+
+.ahem {
+  font-size: 10px;
+  padding: 1px;
+  margin: 1px;
+}
